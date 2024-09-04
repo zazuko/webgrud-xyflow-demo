@@ -1,0 +1,21 @@
+.fn {
+    border: 1px solid rgb(229, 231, 235);
+    background-color: rgba(255, 255, 255, 0.7);
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.op {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+.custom-handle {
+    background-color: #9ca3af;
+    ;
+}

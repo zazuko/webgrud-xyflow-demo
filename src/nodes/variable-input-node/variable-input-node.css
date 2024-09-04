@@ -1,0 +1,40 @@
+.variable-node {
+
+    width: 200px;
+    height: 100px;
+    border: 1px solid rgb(229, 231, 235);
+    background-color: rgba(255, 255, 255, 0.7);
+    border-radius: 16px;
+    padding: 0;
+}
+
+.head {
+    padding: 8px 12px;
+    border-bottom: 1px solid rgb(229, 231, 235);
+}
+
+.custom-handle {
+    background-color: #9ca3af;
+    ;
+}
+
+
+.body {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 8px 12px;
+
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.value {
+    font-weight: bold;
+}
